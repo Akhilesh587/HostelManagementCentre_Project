@@ -1,0 +1,2 @@
+# HostelManagementCentre_Project
+The “HALL MANAGEMENT CENTER” is an application developed for managing various activities in the hostel. This project is deals with the problem of managing a hostel and aviods the problems which occur when carried out manually. It deals with the various activities like managing the student’s information, allocation of rooms to students, calculating the mess and hostel bills per month, managing student’s complaints.
